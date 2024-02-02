@@ -22,13 +22,13 @@ html,body{
    }
 @font-face {
     font-family:DINBold;
-    src:url(../fonts/dinbold-webfont.bc8aa63.woff);
+    src:url(dinbold-webfont.bc8aa63.woff);
     font-weight:400;
     font-style:normal
 }
 @font-face {
     font-family:DINBold;
-    src:url(../fonts/DIN-Bold_0.otf);
+    src:url(DIN-Bold_0.otf);
     font-weight:400;
     font-style:normal
 }
@@ -487,7 +487,7 @@ html,body{
 	width: 24px;
 	height: 24px;
 	margin-right: 5px;
-	background:url(../images/bq001.png) no-repeat;
+	background:url(bq001.png) no-repeat;
 	background-size: 24px 24px;
 	background-position: center bottom;
 	display: inline-block;
@@ -499,7 +499,7 @@ html,body{
 	width: 26px;
 	height: 26px;
 	margin-left: 5px;
-	background:url(../images/bq002.gif) no-repeat;
+	background:url(bq002.gif) no-repeat;
 	background-size: 26px auto;
 	background-position: center bottom;
 	display: inline-block;
